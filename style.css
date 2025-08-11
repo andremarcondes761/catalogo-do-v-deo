@@ -1,7 +1,8 @@
 body {
-color: rgba(255, 0, 0, 0);
-background: rgb(0, 0, 0);
-margin: 0px; }
+color: rgba(00, 0, 0);
+background: rgb(173, 10, 10);
+margin: 0px; 
+}
 
 
  header {
@@ -11,7 +12,7 @@ font-size: 32px;
 color: rgb(255, 0, 0);
 }
 section {
-background: rgb(0, 0, 0);
+background: rgb(255, 0, 0);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
